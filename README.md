@@ -2,7 +2,6 @@
 - 👀 I am interested in everything related to programming.
 - I'm a Frontend Developer with React.
 - I can handle HTML, CSS, JAVASCRIPT, REACT, PYTHON and Node for the Backend.
-- 🌱 I’m currently learning Backend with Node at Academlo
 - 💞️ I’m looking to work as a Fullstack Developer.
 - 📫 How to reach me : https://www.linkedin.com/in/angel-carrasco24/
 - This is my portfolio: https://acportfolio23.netlify.app/

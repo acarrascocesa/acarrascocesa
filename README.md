@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angel Carrasco @acarrascocesa
 - 👀 I am interested in everything related to programming.
-- I'm a Frontend Developer with React.
+- I'm a Fullstack Developer with React and Node.
 - I can handle HTML, CSS, JAVASCRIPT, REACT, PYTHON and Node for the Backend.
 - 💞️ I’m looking to work as a Fullstack Developer.
 - 📫 How to reach me : https://www.linkedin.com/in/angel-carrasco24/

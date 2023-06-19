@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I'm a Fullstackk Developer. I can handle HTML, CSS, Javascript, React, Python, Dart, Flutter and Node for the backend. I am a hardworking person who seeks to apply all his knowledge and continue learning about programming. I have 8 years of experience as Senior Technical Support.
+I'm a Fullstackk Developer. I can handle HTML, CSS, Javascript, React, Python, Next Js for frontend and Node for the backend.
+I can handle SQL Server and MogoDB.
+I am currently working as a junior developer in a local company in Dominican Republic, where I use React, Next JS, SQL Server and Genero Programming Language.
+I have 8 years of experience as Senior Technical Support.
 
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [acportfolio2023.netlify.app/](http://acportfolio2023.netlify.app/)
 * ✉️  You can contact me at [acarrascocesa@gmail.com](mailto:acarrascocesa@gmail.com)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Fullstack Projects, Backend with Node Frontend with React
+* 🤝  I'm open to collaborating on Fullstack Projects, Backend with Node Frontend with React and Next JS.
 
 ### Skills
 
